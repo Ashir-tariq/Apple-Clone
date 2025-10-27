@@ -1,3 +1,5 @@
+This a my first react project using vite that i built a clone of apple not soo complex code simple and easy logic use of components amd import and export in react 
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
